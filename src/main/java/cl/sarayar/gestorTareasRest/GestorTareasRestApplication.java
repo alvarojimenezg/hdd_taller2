@@ -14,7 +14,6 @@ import org.springframework.security.crypto.password.PasswordEncoder;
 import java.util.List;
 
 @SpringBootApplication
-@ComponentScan
 public class GestorTareasRestApplication implements CommandLineRunner {
 
 	public static void main(String[] args) {
